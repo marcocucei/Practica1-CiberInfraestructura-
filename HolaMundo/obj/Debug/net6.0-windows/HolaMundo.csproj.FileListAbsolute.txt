@@ -1,0 +1,17 @@
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.Form1.resources
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.csproj.GenerateResource.cache
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.AssemblyInfoInputs.cache
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.AssemblyInfo.cs
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.csproj.CoreCompileInputs.cache
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.exe
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.deps.json
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.runtimeconfig.json
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.dll
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\bin\Debug\net6.0-windows\HolaMundo.pdb
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.dll
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\refint\HolaMundo.dll
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.pdb
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.genruntimeconfig.cache
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\ref\HolaMundo.dll
+D:\Ciclo 2023-B\Maestría en Cómputo Aplicado V-S\CiberInfraestructura\VisualStudio\HolaMundo\HolaMundo\obj\Debug\net6.0-windows\HolaMundo.Properties.Resources.resources
